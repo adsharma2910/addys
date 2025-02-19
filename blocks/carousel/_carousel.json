@@ -1,93 +1,95 @@
 {
-  "id": "carousel-4e80c7e13c",
-  "activeItem": "image",
+  "id": "carousel-bfe4fa6647",
+  "activeItem": "teaser_720124833",
   "accessibilityAutoItemTitles": false,
   "autoplay": false,
   "delay": 5000,
   "autopauseDisabled": false,
   "controlsPrepended": false,
   ":itemsOrder": [
-    "image",
-    "image_1622336496",
-    "image_1533234440"
+    "teaser_720124833",
+    "teaser_841933659",
+    "teaser"
   ],
   ":items": {
-    "image": {
-      "id": "image-30704e84cd",
-      "alt": "Lava flowing into the ocean",
-      "src": "/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image.coreimg.jpeg",
-      "uuid": "0f54e1b5-535b-45f7-a46b-35abb19dd6bc",
-      "sizes": "",
-      "lazyEnabled": true,
-      "srcset": "/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image.coreimg.82.600.jpeg 600w,/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image.coreimg.82.800.jpeg 800w,/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image.coreimg.82.1000.jpeg 1000w,/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image.coreimg.82.1200.jpeg 1200w,/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image.coreimg.82.1600.jpeg 1600w",
-      ":type": "core-components-examples/components/image",
+    "teaser_720124833": {
+      "id": "teaser-1c0bc06021",
+      "title": "First Teaser Title",
+      "description": "<p>Teaser Description</p>",
+      "actionsEnabled": false,
+      "imageLinkHidden": false,
+      "titleLinkHidden": false,
+      "actions": [],
+      "link": {
+        "valid": true,
+        "url": "/content/core-components-examples/library/core-content/carousel.html"
+      },
+      ":type": "core-components-examples/components/teaser",
+      "imagePath": "/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo/component/carousel_8337507762/teaser_720124833.coreimg.jpeg",
       "dataLayer": {
-        "image-30704e84cd": {
-          "@type": "core-components-examples/components/image",
-          "image": {
-            "repo:id": "0f54e1b5-535b-45f7-a46b-35abb19dd6bc",
-            "repo:modifyDate": "1970-01-01T00:00:00Z",
-            "@type": "image/jpeg",
-            "repo:path": "/content/dam/core-components-examples/library/sample-assets/lava-into-ocean.jpg"
-          }
+        "teaser-1c0bc06021": {
+          "@type": "core-components-examples/components/teaser",
+          "dc:title": "First Teaser Title",
+          "dc:description": "<p>Teaser Description</p>",
+          "xdm:linkURL": "/content/core-components-examples/library/core-content/carousel.html"
         }
       },
-      "cq:panelTitle": "Title"
+      "cq:panelTitle": "Teaser Title"
     },
-    "image_1622336496": {
-      "id": "image-645fc67b90",
-      "alt": "Snowy mountain glacier",
-      "title": "Snowy mountain glacier",
-      "src": "/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image_1622336496.coreimg.jpeg",
-      "uuid": "45c6ee92-90e1-4af2-af69-b6dcbc7daeb7",
-      "sizes": "",
-      "lazyEnabled": true,
-      "srcset": "/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image_1622336496.coreimg.82.600.jpeg 600w,/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image_1622336496.coreimg.82.800.jpeg 800w,/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image_1622336496.coreimg.82.1000.jpeg 1000w,/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image_1622336496.coreimg.82.1200.jpeg 1200w,/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image_1622336496.coreimg.82.1600.jpeg 1600w",
-      ":type": "core-components-examples/components/image",
+    "teaser_841933659": {
+      "id": "teaser-47f1a7ca67",
+      "title": "Second Teaser Title",
+      "description": "<p>Teaser Description</p>",
+      "actionsEnabled": false,
+      "imageLinkHidden": false,
+      "titleLinkHidden": false,
+      "actions": [],
+      "link": {
+        "valid": true,
+        "url": "/content/core-components-examples/library/core-content/carousel.html"
+      },
+      ":type": "core-components-examples/components/teaser",
+      "imagePath": "/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo/component/carousel_8337507762/teaser_841933659.coreimg.jpeg",
       "dataLayer": {
-        "image-645fc67b90": {
-          "@type": "core-components-examples/components/image",
-          "dc:title": "Snowy mountain glacier",
-          "image": {
-            "repo:id": "45c6ee92-90e1-4af2-af69-b6dcbc7daeb7",
-            "repo:modifyDate": "1970-01-01T00:00:00Z",
-            "@type": "image/jpeg",
-            "repo:path": "/content/dam/core-components-examples/library/sample-assets/snowy-mountain-glacier.jpg"
-          }
+        "teaser-47f1a7ca67": {
+          "@type": "core-components-examples/components/teaser",
+          "dc:title": "Second Teaser Title",
+          "dc:description": "<p>Teaser Description</p>",
+          "xdm:linkURL": "/content/core-components-examples/library/core-content/carousel.html"
         }
       },
-      "cq:panelTitle": null
+      "cq:panelTitle": "Teaser Title"
     },
-    "image_1533234440": {
-      "id": "image-85d21a3332",
-      "alt": "Gray lava rock formation",
-      "title": "Gray lava rock formation",
-      "src": "/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image_1533234440.coreimg.jpeg",
-      "uuid": "c58c09f6-e382-4698-bfbd-e8c8d37712c8",
-      "sizes": "",
-      "lazyEnabled": true,
-      "srcset": "/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image_1533234440.coreimg.82.600.jpeg 600w,/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image_1533234440.coreimg.82.800.jpeg 800w,/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image_1533234440.coreimg.82.1000.jpeg 1000w,/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image_1533234440.coreimg.82.1200.jpeg 1200w,/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo_181646866/component/carousel/image_1533234440.coreimg.82.1600.jpeg 1600w",
-      ":type": "core-components-examples/components/image",
+    "teaser": {
+      "id": "teaser-43ec4c9761",
+      "title": "Third Teaser Title",
+      "description": "<p>Teaser Description</p>",
+      "actionsEnabled": false,
+      "imageLinkHidden": false,
+      "titleLinkHidden": false,
+      "actions": [],
+      "link": {
+        "valid": true,
+        "url": "/content/core-components-examples/library/core-content/carousel.html"
+      },
+      ":type": "core-components-examples/components/teaser",
+      "imagePath": "/content/core-components-examples/library/core-content/carousel/_jcr_content/root/responsivegrid/demo/component/carousel_8337507762/teaser.coreimg.jpeg",
       "dataLayer": {
-        "image-85d21a3332": {
-          "@type": "core-components-examples/components/image",
-          "dc:title": "Gray lava rock formation",
-          "image": {
-            "repo:id": "c58c09f6-e382-4698-bfbd-e8c8d37712c8",
-            "repo:modifyDate": "1970-01-01T00:00:00Z",
-            "@type": "image/jpeg",
-            "repo:path": "/content/dam/core-components-examples/library/sample-assets/lava-rock-formation.jpg"
-          }
+        "teaser-43ec4c9761": {
+          "@type": "core-components-examples/components/teaser",
+          "dc:title": "Third Teaser Title",
+          "dc:description": "<p>Teaser Description</p>",
+          "xdm:linkURL": "/content/core-components-examples/library/core-content/carousel.html"
         }
       },
-      "cq:panelTitle": null
+      "cq:panelTitle": "Teaser Title"
     }
   },
   ":type": "core-components-examples/components/carousel",
   "dataLayer": {
-    "carousel-4e80c7e13c": {
+    "carousel-bfe4fa6647": {
       "shownItems": [
-        "carousel-4e80c7e13c-item-30704e84cd"
+        "carousel-bfe4fa6647-item-1c0bc06021"
       ],
       "@type": "core-components-examples/components/carousel"
     }
